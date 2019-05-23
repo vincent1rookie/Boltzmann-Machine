@@ -3,6 +3,9 @@ Staff all about restricted BM or deep BM
 
 Currently RBM is written in Tensorflow while 2-layer-DBM is written in numpy.
 
+See result in MNIST dataset in jupyter notebook.
+
+
 Reference
 
 [1] R. Salakhutdinov and G. Hinton. Deep boltzmann machines.
